@@ -10,9 +10,6 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "bower"       : "*",
-  },
-  "engines": {
-    "node": ">=0.4"
-  },
+    "bower"       : "*"
+  }
 }
